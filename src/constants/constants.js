@@ -1,4 +1,13 @@
 export const projects = [
+    {
+    title: 'YouTube.com',
+    description: "YouTube is an American online video-sharing and social media platform headquartered in San Bruno, California, United States. Accessible worldwide, it was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim.",
+      image: '/images/3.png',
+      tags: ['React', 'Redux', 'Tailwind','JavaScript],
+    source: 'https://github.com/Nk5196/youtube',
+    visit: 'https://youtube-kappa-coral.vercel.app/',
+    id: 0,
+  },
   {
     title: 'Shopbop.com',
     description: "Shopbop is the global online retail destination for style inspiration and discovery, offering women and men a curated selection of ready-to-wear & accessories from over 1,000 established and emerging designers.",
@@ -6,7 +15,7 @@ export const projects = [
       tags: [ 'JavaScript', 'Css3', 'HTML'],
     source: 'https://github.com/sarb908/ShopBop',
     visit: 'https://shopbop009.netlify.app/',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Reliance-Digital',
@@ -15,26 +24,18 @@ export const projects = [
     tags: [ 'JavaScript', 'Css3', 'HTML'],
     source: 'https://github.com/akashbhadouria/Relianc-Digital',
     visit: 'https://heroic-paletas-1b9fd2.netlify.app/',
-    id: 1,
+      id: 2,
   },
   {
     title: 'Expedia.com',
     description: "Expedia Group, Inc. is an American online travel shopping company for consumer and small business travel. Its websites, which are primarily travel fare aggregators and travel metasearch engines, include Expedia.com, Vrbo, Hotels.com, Hotwire.com, Orbitz, Travelocity, trivago and CarRentals.com",
       image: '/images/3.png',
-      tags: ['React', 'WebRTC'],
+      tags: ['React', 'Redux','Tailwind','JavaScript'],
     source: 'https://github.com/Nk5196/dizzy-stove-3148',
     visit: 'https://nk5expedia.netlify.app/',
-    id: 2,
-  },
-  {
-    title: 'Expedia.com',
-    description: "Expedia Group, Inc. is an American online travel shopping company for consumer and small business travel. Its websites, which are primarily travel fare aggregators and travel metasearch engines, include Expedia.com, Vrbo, Hotels.com, Hotwire.com, Orbitz, Travelocity, trivago and CarRentals.com",
-      image: '/images/3.png',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
     id: 3,
   },
+
 ];
 
 export const TimeLineData = [
