@@ -8,6 +8,15 @@ export const projects = [
     visit: 'https://dnyanodaya-frontend.vercel.app',
     id: 0,
   },
+  {
+    title: 'Ecommerce N-tunes.com',
+    description: "This is a Ecommerce website for headphones. I used Redux store and login, add to cart functionality in this.",
+      image: '/images/youtube.png',
+      tags: ['React', 'Redux', 'Chakra UI','Node.js','Express.js','MongoDB','JavaScript'],
+    source: 'https://github.com/Nk5196/ecommerce-headphone',
+    visit: 'https://ecommerce-headphone-delta.vercel.app/',
+    id: 1,
+  },
     {
     title: 'YouTube.com',
     description: "YouTube is an American online video-sharing and social media platform headquartered in San Bruno, California, United States.",
@@ -15,7 +24,7 @@ export const projects = [
       tags: ['React', 'Redux', 'Tailwind','JavaScript'],
     source: 'https://github.com/Nk5196/youtube',
     visit: 'https://youtube-kappa-coral.vercel.app/',
-    id: 1,
+    id: 2,
   },
 
  
@@ -26,7 +35,7 @@ export const projects = [
     tags: [ 'JavaScript', 'Css3', 'HTML'],
     source: 'https://github.com/akashbhadouria/Relianc-Digital',
     visit: 'https://heroic-paletas-1b9fd2.netlify.app/',
-      id: 2,
+      id: 3,
   },
   {
     title: 'Expedia.com',
@@ -35,7 +44,7 @@ export const projects = [
       tags: ['React', 'Redux','Tailwind','JavaScript'],
     source: 'https://github.com/Nk5196/dizzy-stove-3148',
     visit: 'https://nk5expedia.netlify.app/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Shopbop.com',
@@ -44,7 +53,7 @@ export const projects = [
       tags: [ 'JavaScript', 'Css3', 'HTML'],
     source: 'https://github.com/sarb908/ShopBop',
     visit: 'https://shopbop009.netlify.app/',
-    id: 4,
+    id: 5,
   },
 
 ];
