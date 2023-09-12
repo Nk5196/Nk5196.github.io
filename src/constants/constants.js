@@ -1,20 +1,20 @@
 export const projects = [
   {
+    title: 'Ecommerce N-tunes.com',
+    description: "This is a Ecommerce website for headphones. I used Redux store and login, add to cart functionality in this.",
+      image: '/images/Ntunes.png',
+      tags: ['React', 'Redux', 'Chakra UI','Node.js','Express.js','MongoDB','JavaScript'],
+    source: 'https://github.com/Nk5196/ecommerce-headphone',
+    visit: 'https://ecommerce-headphone-delta.vercel.app/',
+    id: 0,
+  },
+  {
     title: 'Dnyanodaya School',
     description: "This is a school project which has public portal and on login it has admin panel to take attendance and list students. login details - Id - dny, pass- 123",
       image: '/images/dny.png',
       tags: [ 'React.js','Node.js','Express.js','MongoDB','Chakra UI'],
     source: 'https://github.com/Nk5196',
     visit: 'https://dnyanodaya-frontend.vercel.app',
-    id: 0,
-  },
-  {
-    title: 'Ecommerce N-tunes.com',
-    description: "This is a Ecommerce website for headphones. I used Redux store and login, add to cart functionality in this.",
-      image: '/images/youtube.png',
-      tags: ['React', 'Redux', 'Chakra UI','Node.js','Express.js','MongoDB','JavaScript'],
-    source: 'https://github.com/Nk5196/ecommerce-headphone',
-    visit: 'https://ecommerce-headphone-delta.vercel.app/',
     id: 1,
   },
     {
