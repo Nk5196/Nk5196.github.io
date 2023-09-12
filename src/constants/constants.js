@@ -3,7 +3,7 @@ export const projects = [
     title: 'Ecommerce N-tunes.com',
     description: "This is a Ecommerce website for headphones. I used Redux store and login, add to cart functionality in this.",
       image: '/images/Ntunes.png',
-      tags: ['React', 'Redux', 'Chakra UI','Node.js','Express.js','MongoDB','JavaScript'],
+      tags: ['React', 'Redux', 'Chakra UI','Node.js','Express.js','MongoDB',],
     source: 'https://github.com/Nk5196/ecommerce-headphone',
     visit: 'https://ecommerce-headphone-delta.vercel.app/',
     id: 0,
