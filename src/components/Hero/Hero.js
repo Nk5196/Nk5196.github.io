@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         A MERN STACK WEB DEVELOPER
       </SectionText>
-      <Button onClick={()=>window.open('https://drive.google.com/file/d/1lUn6UL7LZatiST643PO37KDRaP_OCbrJ/view?usp=sharing', "_blank")}>Resume</Button>
+      <Button onClick={()=>window.open('https://drive.google.com/file/d/17RVruBkXLquBlUMFv38n5uJa3azm1Su4/view?usp=sharing', "_blank")}>Resume</Button>
     </LeftSection>
   </Section>
 );
